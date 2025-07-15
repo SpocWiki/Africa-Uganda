@@ -40,11 +40,18 @@ markerFolder: ./Kween/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kween|Kween]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kween.public|Kween.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kween.internal|Kween.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kween.protect|Kween.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kween.private|Kween.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kween.personal|Kween.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kween.secret|Kween.secret]] 
+
+### #is_/same_as :: [Kween](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.md) 
+
+### #is_/same_as :: [Kween.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.public.md) 
+
+### #is_/same_as :: [Kween.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.internal.md) 
+
+### #is_/same_as :: [Kween.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.protect.md) 
+
+### #is_/same_as :: [Kween.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.private.md) 
+
+### #is_/same_as :: [Kween.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.personal.md) 
+
+### #is_/same_as :: [Kween.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kween.secret.md)
 

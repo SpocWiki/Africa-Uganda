@@ -40,11 +40,18 @@ markerFolder: ./Kyenjojo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kyenjojo|Kyenjojo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyenjojo.public|Kyenjojo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyenjojo.internal|Kyenjojo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyenjojo.protect|Kyenjojo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyenjojo.private|Kyenjojo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyenjojo.personal|Kyenjojo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyenjojo.secret|Kyenjojo.secret]] 
+
+### #is_/same_as :: [Kyenjojo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.md) 
+
+### #is_/same_as :: [Kyenjojo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.public.md) 
+
+### #is_/same_as :: [Kyenjojo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.internal.md) 
+
+### #is_/same_as :: [Kyenjojo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.protect.md) 
+
+### #is_/same_as :: [Kyenjojo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.private.md) 
+
+### #is_/same_as :: [Kyenjojo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.personal.md) 
+
+### #is_/same_as :: [Kyenjojo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.secret.md)
 

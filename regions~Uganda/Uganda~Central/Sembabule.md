@@ -40,11 +40,18 @@ markerFolder: ./Sembabule/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Sembabule|Sembabule]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Sembabule.public|Sembabule.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sembabule.internal|Sembabule.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sembabule.protect|Sembabule.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Sembabule.private|Sembabule.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sembabule.personal|Sembabule.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sembabule.secret|Sembabule.secret]] 
+
+### #is_/same_as :: [Sembabule](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.md) 
+
+### #is_/same_as :: [Sembabule.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.public.md) 
+
+### #is_/same_as :: [Sembabule.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.internal.md) 
+
+### #is_/same_as :: [Sembabule.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.protect.md) 
+
+### #is_/same_as :: [Sembabule.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.private.md) 
+
+### #is_/same_as :: [Sembabule.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.personal.md) 
+
+### #is_/same_as :: [Sembabule.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Sembabule.secret.md)
 

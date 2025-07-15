@@ -40,11 +40,18 @@ markerFolder: ./Buliisa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buliisa|Buliisa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buliisa.public|Buliisa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buliisa.internal|Buliisa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buliisa.protect|Buliisa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buliisa.private|Buliisa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buliisa.personal|Buliisa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buliisa.secret|Buliisa.secret]] 
+
+### #is_/same_as :: [Buliisa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.md) 
+
+### #is_/same_as :: [Buliisa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.public.md) 
+
+### #is_/same_as :: [Buliisa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.internal.md) 
+
+### #is_/same_as :: [Buliisa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.protect.md) 
+
+### #is_/same_as :: [Buliisa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.private.md) 
+
+### #is_/same_as :: [Buliisa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.personal.md) 
+
+### #is_/same_as :: [Buliisa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buliisa.secret.md)
 

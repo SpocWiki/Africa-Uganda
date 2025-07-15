@@ -40,11 +40,18 @@ markerFolder: ./Kampala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kampala|Kampala]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kampala.public|Kampala.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kampala.internal|Kampala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kampala.protect|Kampala.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kampala.private|Kampala.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kampala.personal|Kampala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kampala.secret|Kampala.secret]] 
+
+### #is_/same_as :: [Kampala](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.md) 
+
+### #is_/same_as :: [Kampala.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.public.md) 
+
+### #is_/same_as :: [Kampala.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.internal.md) 
+
+### #is_/same_as :: [Kampala.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.protect.md) 
+
+### #is_/same_as :: [Kampala.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.private.md) 
+
+### #is_/same_as :: [Kampala.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.personal.md) 
+
+### #is_/same_as :: [Kampala.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala.secret.md)
 

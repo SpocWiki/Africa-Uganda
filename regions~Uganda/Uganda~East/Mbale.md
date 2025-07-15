@@ -40,11 +40,18 @@ markerFolder: ./Mbale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mbale|Mbale]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mbale.public|Mbale.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbale.internal|Mbale.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbale.protect|Mbale.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbale.private|Mbale.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbale.personal|Mbale.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbale.secret|Mbale.secret]] 
+
+### #is_/same_as :: [Mbale](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.md) 
+
+### #is_/same_as :: [Mbale.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.public.md) 
+
+### #is_/same_as :: [Mbale.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.internal.md) 
+
+### #is_/same_as :: [Mbale.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.protect.md) 
+
+### #is_/same_as :: [Mbale.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.private.md) 
+
+### #is_/same_as :: [Mbale.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.personal.md) 
+
+### #is_/same_as :: [Mbale.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mbale.secret.md)
 

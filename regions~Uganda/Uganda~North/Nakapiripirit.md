@@ -40,11 +40,18 @@ markerFolder: ./Nakapiripirit/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nakapiripirit|Nakapiripirit]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.public|Nakapiripirit.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.internal|Nakapiripirit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.protect|Nakapiripirit.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.private|Nakapiripirit.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.personal|Nakapiripirit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakapiripirit.secret|Nakapiripirit.secret]] 
+
+### #is_/same_as :: [Nakapiripirit](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.md) 
+
+### #is_/same_as :: [Nakapiripirit.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.public.md) 
+
+### #is_/same_as :: [Nakapiripirit.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.internal.md) 
+
+### #is_/same_as :: [Nakapiripirit.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.protect.md) 
+
+### #is_/same_as :: [Nakapiripirit.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.private.md) 
+
+### #is_/same_as :: [Nakapiripirit.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.personal.md) 
+
+### #is_/same_as :: [Nakapiripirit.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nakapiripirit.secret.md)
 

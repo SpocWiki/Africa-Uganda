@@ -40,11 +40,18 @@ markerFolder: ./Kamwenge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kamwenge|Kamwenge]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamwenge.public|Kamwenge.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamwenge.internal|Kamwenge.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamwenge.protect|Kamwenge.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamwenge.private|Kamwenge.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamwenge.personal|Kamwenge.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamwenge.secret|Kamwenge.secret]] 
+
+### #is_/same_as :: [Kamwenge](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.md) 
+
+### #is_/same_as :: [Kamwenge.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.public.md) 
+
+### #is_/same_as :: [Kamwenge.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.internal.md) 
+
+### #is_/same_as :: [Kamwenge.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.protect.md) 
+
+### #is_/same_as :: [Kamwenge.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.private.md) 
+
+### #is_/same_as :: [Kamwenge.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.personal.md) 
+
+### #is_/same_as :: [Kamwenge.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kamwenge.secret.md)
 

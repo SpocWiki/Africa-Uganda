@@ -40,11 +40,18 @@ markerFolder: ./Jinja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Jinja|Jinja]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Jinja.public|Jinja.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Jinja.internal|Jinja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Jinja.protect|Jinja.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Jinja.private|Jinja.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Jinja.personal|Jinja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Jinja.secret|Jinja.secret]] 
+
+### #is_/same_as :: [Jinja](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.md) 
+
+### #is_/same_as :: [Jinja.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.public.md) 
+
+### #is_/same_as :: [Jinja.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.internal.md) 
+
+### #is_/same_as :: [Jinja.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.protect.md) 
+
+### #is_/same_as :: [Jinja.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.private.md) 
+
+### #is_/same_as :: [Jinja.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.personal.md) 
+
+### #is_/same_as :: [Jinja.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Jinja.secret.md)
 

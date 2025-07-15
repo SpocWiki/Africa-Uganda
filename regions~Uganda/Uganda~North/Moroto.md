@@ -40,11 +40,18 @@ markerFolder: ./Moroto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Moroto|Moroto]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Moroto.public|Moroto.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moroto.internal|Moroto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moroto.protect|Moroto.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Moroto.private|Moroto.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moroto.personal|Moroto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moroto.secret|Moroto.secret]] 
+
+### #is_/same_as :: [Moroto](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.md) 
+
+### #is_/same_as :: [Moroto.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.public.md) 
+
+### #is_/same_as :: [Moroto.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.internal.md) 
+
+### #is_/same_as :: [Moroto.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.protect.md) 
+
+### #is_/same_as :: [Moroto.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.private.md) 
+
+### #is_/same_as :: [Moroto.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.personal.md) 
+
+### #is_/same_as :: [Moroto.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moroto.secret.md)
 

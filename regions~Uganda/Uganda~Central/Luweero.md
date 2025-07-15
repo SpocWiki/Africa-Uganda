@@ -40,11 +40,18 @@ markerFolder: ./Luweero/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Luweero|Luweero]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Luweero.public|Luweero.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Luweero.internal|Luweero.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Luweero.protect|Luweero.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Luweero.private|Luweero.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Luweero.personal|Luweero.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Luweero.secret|Luweero.secret]] 
+
+### #is_/same_as :: [Luweero](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.md) 
+
+### #is_/same_as :: [Luweero.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.public.md) 
+
+### #is_/same_as :: [Luweero.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.internal.md) 
+
+### #is_/same_as :: [Luweero.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.protect.md) 
+
+### #is_/same_as :: [Luweero.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.private.md) 
+
+### #is_/same_as :: [Luweero.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.personal.md) 
+
+### #is_/same_as :: [Luweero.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Luweero.secret.md)
 

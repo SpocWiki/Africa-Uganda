@@ -40,11 +40,18 @@ markerFolder: ./Buhweju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buhweju|Buhweju]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buhweju.public|Buhweju.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buhweju.internal|Buhweju.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buhweju.protect|Buhweju.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buhweju.private|Buhweju.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buhweju.personal|Buhweju.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buhweju.secret|Buhweju.secret]] 
+
+### #is_/same_as :: [Buhweju](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.md) 
+
+### #is_/same_as :: [Buhweju.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.public.md) 
+
+### #is_/same_as :: [Buhweju.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.internal.md) 
+
+### #is_/same_as :: [Buhweju.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.protect.md) 
+
+### #is_/same_as :: [Buhweju.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.private.md) 
+
+### #is_/same_as :: [Buhweju.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.personal.md) 
+
+### #is_/same_as :: [Buhweju.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Buhweju.secret.md)
 

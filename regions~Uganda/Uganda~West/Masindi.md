@@ -40,11 +40,18 @@ markerFolder: ./Masindi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Masindi|Masindi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Masindi.public|Masindi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masindi.internal|Masindi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masindi.protect|Masindi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Masindi.private|Masindi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masindi.personal|Masindi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masindi.secret|Masindi.secret]] 
+
+### #is_/same_as :: [Masindi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.md) 
+
+### #is_/same_as :: [Masindi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.public.md) 
+
+### #is_/same_as :: [Masindi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.internal.md) 
+
+### #is_/same_as :: [Masindi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.protect.md) 
+
+### #is_/same_as :: [Masindi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.private.md) 
+
+### #is_/same_as :: [Masindi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.personal.md) 
+
+### #is_/same_as :: [Masindi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Masindi.secret.md)
 

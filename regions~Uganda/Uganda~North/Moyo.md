@@ -40,11 +40,18 @@ markerFolder: ./Moyo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Moyo|Moyo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Moyo.public|Moyo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moyo.internal|Moyo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moyo.protect|Moyo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Moyo.private|Moyo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moyo.personal|Moyo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moyo.secret|Moyo.secret]] 
+
+### #is_/same_as :: [Moyo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.md) 
+
+### #is_/same_as :: [Moyo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.public.md) 
+
+### #is_/same_as :: [Moyo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.internal.md) 
+
+### #is_/same_as :: [Moyo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.protect.md) 
+
+### #is_/same_as :: [Moyo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.private.md) 
+
+### #is_/same_as :: [Moyo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.personal.md) 
+
+### #is_/same_as :: [Moyo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Moyo.secret.md)
 

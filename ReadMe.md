@@ -133,10 +133,4 @@ Capital :: [[Kampala]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Uganda|Uganda]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Uganda.internal|Uganda.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Uganda.protect|Uganda.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Uganda.private|Uganda.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Uganda.personal|Uganda.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Uganda.secret|Uganda.secret]] 
+

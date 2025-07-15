@@ -40,11 +40,18 @@ markerFolder: ./Serere/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Serere|Serere]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Serere.public|Serere.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Serere.internal|Serere.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Serere.protect|Serere.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Serere.private|Serere.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Serere.personal|Serere.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Serere.secret|Serere.secret]] 
+
+### #is_/same_as :: [Serere](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.md) 
+
+### #is_/same_as :: [Serere.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.public.md) 
+
+### #is_/same_as :: [Serere.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.internal.md) 
+
+### #is_/same_as :: [Serere.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.protect.md) 
+
+### #is_/same_as :: [Serere.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.private.md) 
+
+### #is_/same_as :: [Serere.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.personal.md) 
+
+### #is_/same_as :: [Serere.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Serere.secret.md)
 

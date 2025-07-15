@@ -40,11 +40,18 @@ markerFolder: ./Butaleja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Butaleja|Butaleja]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Butaleja.public|Butaleja.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Butaleja.internal|Butaleja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Butaleja.protect|Butaleja.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Butaleja.private|Butaleja.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Butaleja.personal|Butaleja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Butaleja.secret|Butaleja.secret]] 
+
+### #is_/same_as :: [Butaleja](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.md) 
+
+### #is_/same_as :: [Butaleja.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.public.md) 
+
+### #is_/same_as :: [Butaleja.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.internal.md) 
+
+### #is_/same_as :: [Butaleja.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.protect.md) 
+
+### #is_/same_as :: [Butaleja.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.private.md) 
+
+### #is_/same_as :: [Butaleja.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.personal.md) 
+
+### #is_/same_as :: [Butaleja.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.secret.md)
 

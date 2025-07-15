@@ -40,11 +40,18 @@ markerFolder: ./Arua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Arua|Arua]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Arua.public|Arua.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Arua.internal|Arua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Arua.protect|Arua.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Arua.private|Arua.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Arua.personal|Arua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Arua.secret|Arua.secret]] 
+
+### #is_/same_as :: [Arua](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.md) 
+
+### #is_/same_as :: [Arua.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.public.md) 
+
+### #is_/same_as :: [Arua.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.internal.md) 
+
+### #is_/same_as :: [Arua.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.protect.md) 
+
+### #is_/same_as :: [Arua.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.private.md) 
+
+### #is_/same_as :: [Arua.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.personal.md) 
+
+### #is_/same_as :: [Arua.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Arua.secret.md)
 

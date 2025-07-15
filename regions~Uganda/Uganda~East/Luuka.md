@@ -40,11 +40,18 @@ markerFolder: ./Luuka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Luuka|Luuka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Luuka.public|Luuka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Luuka.internal|Luuka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Luuka.protect|Luuka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Luuka.private|Luuka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Luuka.personal|Luuka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Luuka.secret|Luuka.secret]] 
+
+### #is_/same_as :: [Luuka](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.md) 
+
+### #is_/same_as :: [Luuka.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.public.md) 
+
+### #is_/same_as :: [Luuka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.internal.md) 
+
+### #is_/same_as :: [Luuka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.protect.md) 
+
+### #is_/same_as :: [Luuka.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.private.md) 
+
+### #is_/same_as :: [Luuka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.personal.md) 
+
+### #is_/same_as :: [Luuka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Luuka.secret.md)
 

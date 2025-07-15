@@ -40,11 +40,18 @@ markerFolder: ./Bududa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bududa|Bududa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bududa.public|Bududa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bududa.internal|Bududa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bududa.protect|Bududa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bududa.private|Bududa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bududa.personal|Bududa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bududa.secret|Bududa.secret]] 
+
+### #is_/same_as :: [Bududa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.md) 
+
+### #is_/same_as :: [Bududa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.public.md) 
+
+### #is_/same_as :: [Bududa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.internal.md) 
+
+### #is_/same_as :: [Bududa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.protect.md) 
+
+### #is_/same_as :: [Bududa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.private.md) 
+
+### #is_/same_as :: [Bududa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.personal.md) 
+
+### #is_/same_as :: [Bududa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bududa.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Ngora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Ngora|Ngora]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Ngora.public|Ngora.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ngora.internal|Ngora.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ngora.protect|Ngora.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Ngora.private|Ngora.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ngora.personal|Ngora.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ngora.secret|Ngora.secret]] 
+
+### #is_/same_as :: [Ngora](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.md) 
+
+### #is_/same_as :: [Ngora.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.public.md) 
+
+### #is_/same_as :: [Ngora.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.internal.md) 
+
+### #is_/same_as :: [Ngora.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.protect.md) 
+
+### #is_/same_as :: [Ngora.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.private.md) 
+
+### #is_/same_as :: [Ngora.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.personal.md) 
+
+### #is_/same_as :: [Ngora.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Ngora.secret.md)
 

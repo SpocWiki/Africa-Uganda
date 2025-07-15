@@ -40,11 +40,18 @@ markerFolder: ./Ntungamo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Ntungamo|Ntungamo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Ntungamo.public|Ntungamo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntungamo.internal|Ntungamo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntungamo.protect|Ntungamo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntungamo.private|Ntungamo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntungamo.personal|Ntungamo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntungamo.secret|Ntungamo.secret]] 
+
+### #is_/same_as :: [Ntungamo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.md) 
+
+### #is_/same_as :: [Ntungamo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.public.md) 
+
+### #is_/same_as :: [Ntungamo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.internal.md) 
+
+### #is_/same_as :: [Ntungamo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.protect.md) 
+
+### #is_/same_as :: [Ntungamo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.private.md) 
+
+### #is_/same_as :: [Ntungamo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.personal.md) 
+
+### #is_/same_as :: [Ntungamo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.secret.md)
 

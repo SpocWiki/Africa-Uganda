@@ -40,11 +40,18 @@ markerFolder: ./Nakaseke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nakaseke|Nakaseke]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakaseke.public|Nakaseke.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakaseke.internal|Nakaseke.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakaseke.protect|Nakaseke.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakaseke.private|Nakaseke.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakaseke.personal|Nakaseke.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakaseke.secret|Nakaseke.secret]] 
+
+### #is_/same_as :: [Nakaseke](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.md) 
+
+### #is_/same_as :: [Nakaseke.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.public.md) 
+
+### #is_/same_as :: [Nakaseke.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.internal.md) 
+
+### #is_/same_as :: [Nakaseke.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.protect.md) 
+
+### #is_/same_as :: [Nakaseke.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.private.md) 
+
+### #is_/same_as :: [Nakaseke.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.personal.md) 
+
+### #is_/same_as :: [Nakaseke.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.secret.md)
 

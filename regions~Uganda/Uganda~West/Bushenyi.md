@@ -40,11 +40,18 @@ markerFolder: ./Bushenyi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bushenyi|Bushenyi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bushenyi.public|Bushenyi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bushenyi.internal|Bushenyi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bushenyi.protect|Bushenyi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bushenyi.private|Bushenyi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bushenyi.personal|Bushenyi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bushenyi.secret|Bushenyi.secret]] 
+
+### #is_/same_as :: [Bushenyi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.md) 
+
+### #is_/same_as :: [Bushenyi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.public.md) 
+
+### #is_/same_as :: [Bushenyi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.internal.md) 
+
+### #is_/same_as :: [Bushenyi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.protect.md) 
+
+### #is_/same_as :: [Bushenyi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.private.md) 
+
+### #is_/same_as :: [Bushenyi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.personal.md) 
+
+### #is_/same_as :: [Bushenyi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Busia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Busia|Busia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Busia.public|Busia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Busia.internal|Busia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Busia.protect|Busia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Busia.private|Busia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Busia.personal|Busia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Busia.secret|Busia.secret]] 
+
+### #is_/same_as :: [Busia](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.md) 
+
+### #is_/same_as :: [Busia.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.public.md) 
+
+### #is_/same_as :: [Busia.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.internal.md) 
+
+### #is_/same_as :: [Busia.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.protect.md) 
+
+### #is_/same_as :: [Busia.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.private.md) 
+
+### #is_/same_as :: [Busia.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.personal.md) 
+
+### #is_/same_as :: [Busia.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Busia.secret.md)
 

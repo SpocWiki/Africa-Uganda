@@ -40,11 +40,18 @@ markerFolder: ./Bundibugyo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bundibugyo|Bundibugyo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bundibugyo.public|Bundibugyo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bundibugyo.internal|Bundibugyo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bundibugyo.protect|Bundibugyo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bundibugyo.private|Bundibugyo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bundibugyo.personal|Bundibugyo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bundibugyo.secret|Bundibugyo.secret]] 
+
+### #is_/same_as :: [Bundibugyo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.md) 
+
+### #is_/same_as :: [Bundibugyo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.public.md) 
+
+### #is_/same_as :: [Bundibugyo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.internal.md) 
+
+### #is_/same_as :: [Bundibugyo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.protect.md) 
+
+### #is_/same_as :: [Bundibugyo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.private.md) 
+
+### #is_/same_as :: [Bundibugyo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.personal.md) 
+
+### #is_/same_as :: [Bundibugyo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.secret.md)
 

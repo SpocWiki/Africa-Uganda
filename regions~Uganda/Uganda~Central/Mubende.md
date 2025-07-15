@@ -40,11 +40,18 @@ markerFolder: ./Mubende/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mubende|Mubende]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mubende.public|Mubende.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mubende.internal|Mubende.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mubende.protect|Mubende.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mubende.private|Mubende.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mubende.personal|Mubende.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mubende.secret|Mubende.secret]] 
+
+### #is_/same_as :: [Mubende](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.md) 
+
+### #is_/same_as :: [Mubende.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.public.md) 
+
+### #is_/same_as :: [Mubende.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.internal.md) 
+
+### #is_/same_as :: [Mubende.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.protect.md) 
+
+### #is_/same_as :: [Mubende.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.private.md) 
+
+### #is_/same_as :: [Mubende.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.personal.md) 
+
+### #is_/same_as :: [Mubende.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mubende.secret.md)
 

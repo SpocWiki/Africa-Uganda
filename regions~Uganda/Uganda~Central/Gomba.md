@@ -40,11 +40,18 @@ markerFolder: ./Gomba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Gomba|Gomba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Gomba.public|Gomba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Gomba.internal|Gomba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Gomba.protect|Gomba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Gomba.private|Gomba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Gomba.personal|Gomba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Gomba.secret|Gomba.secret]] 
+
+### #is_/same_as :: [Gomba](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.md) 
+
+### #is_/same_as :: [Gomba.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.public.md) 
+
+### #is_/same_as :: [Gomba.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.internal.md) 
+
+### #is_/same_as :: [Gomba.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.protect.md) 
+
+### #is_/same_as :: [Gomba.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.private.md) 
+
+### #is_/same_as :: [Gomba.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.personal.md) 
+
+### #is_/same_as :: [Gomba.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Gomba.secret.md)
 

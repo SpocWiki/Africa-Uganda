@@ -40,11 +40,18 @@ markerFolder: ./Isingiro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Isingiro|Isingiro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Isingiro.public|Isingiro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Isingiro.internal|Isingiro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Isingiro.protect|Isingiro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Isingiro.private|Isingiro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Isingiro.personal|Isingiro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Isingiro.secret|Isingiro.secret]] 
+
+### #is_/same_as :: [Isingiro](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.md) 
+
+### #is_/same_as :: [Isingiro.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.public.md) 
+
+### #is_/same_as :: [Isingiro.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.internal.md) 
+
+### #is_/same_as :: [Isingiro.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.protect.md) 
+
+### #is_/same_as :: [Isingiro.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.private.md) 
+
+### #is_/same_as :: [Isingiro.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.personal.md) 
+
+### #is_/same_as :: [Isingiro.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Amolatar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amolatar|Amolatar]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amolatar.public|Amolatar.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amolatar.internal|Amolatar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amolatar.protect|Amolatar.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amolatar.private|Amolatar.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amolatar.personal|Amolatar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amolatar.secret|Amolatar.secret]] 
+
+### #is_/same_as :: [Amolatar](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.md) 
+
+### #is_/same_as :: [Amolatar.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.public.md) 
+
+### #is_/same_as :: [Amolatar.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.internal.md) 
+
+### #is_/same_as :: [Amolatar.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.protect.md) 
+
+### #is_/same_as :: [Amolatar.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.private.md) 
+
+### #is_/same_as :: [Amolatar.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.personal.md) 
+
+### #is_/same_as :: [Amolatar.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.secret.md)
 

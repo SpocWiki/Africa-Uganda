@@ -40,11 +40,18 @@ markerFolder: ./Kapchorwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kapchorwa|Kapchorwa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kapchorwa.public|Kapchorwa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kapchorwa.internal|Kapchorwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kapchorwa.protect|Kapchorwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kapchorwa.private|Kapchorwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kapchorwa.personal|Kapchorwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kapchorwa.secret|Kapchorwa.secret]] 
+
+### #is_/same_as :: [Kapchorwa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.md) 
+
+### #is_/same_as :: [Kapchorwa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.public.md) 
+
+### #is_/same_as :: [Kapchorwa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.internal.md) 
+
+### #is_/same_as :: [Kapchorwa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.protect.md) 
+
+### #is_/same_as :: [Kapchorwa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.private.md) 
+
+### #is_/same_as :: [Kapchorwa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.personal.md) 
+
+### #is_/same_as :: [Kapchorwa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kapchorwa.secret.md)
 

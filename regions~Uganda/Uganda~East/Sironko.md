@@ -40,11 +40,18 @@ markerFolder: ./Sironko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Sironko|Sironko]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Sironko.public|Sironko.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sironko.internal|Sironko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sironko.protect|Sironko.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Sironko.private|Sironko.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sironko.personal|Sironko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sironko.secret|Sironko.secret]] 
+
+### #is_/same_as :: [Sironko](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.md) 
+
+### #is_/same_as :: [Sironko.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.public.md) 
+
+### #is_/same_as :: [Sironko.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.internal.md) 
+
+### #is_/same_as :: [Sironko.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.protect.md) 
+
+### #is_/same_as :: [Sironko.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.private.md) 
+
+### #is_/same_as :: [Sironko.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.personal.md) 
+
+### #is_/same_as :: [Sironko.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Sironko.secret.md)
 

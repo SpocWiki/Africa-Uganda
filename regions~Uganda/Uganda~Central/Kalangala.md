@@ -40,11 +40,18 @@ markerFolder: ./Kalangala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kalangala|Kalangala]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kalangala.public|Kalangala.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kalangala.internal|Kalangala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kalangala.protect|Kalangala.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kalangala.private|Kalangala.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kalangala.personal|Kalangala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kalangala.secret|Kalangala.secret]] 
+
+### #is_/same_as :: [Kalangala](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.md) 
+
+### #is_/same_as :: [Kalangala.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.public.md) 
+
+### #is_/same_as :: [Kalangala.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.internal.md) 
+
+### #is_/same_as :: [Kalangala.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.protect.md) 
+
+### #is_/same_as :: [Kalangala.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.private.md) 
+
+### #is_/same_as :: [Kalangala.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.personal.md) 
+
+### #is_/same_as :: [Kalangala.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kalangala.secret.md)
 

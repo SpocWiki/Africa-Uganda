@@ -40,11 +40,18 @@ markerFolder: ./Kyegegwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kyegegwa|Kyegegwa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyegegwa.public|Kyegegwa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.internal|Kyegegwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyegegwa.protect|Kyegegwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyegegwa.private|Kyegegwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.personal|Kyegegwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyegegwa.secret|Kyegegwa.secret]] 
+
+### #is_/same_as :: [Kyegegwa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.md) 
+
+### #is_/same_as :: [Kyegegwa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.public.md) 
+
+### #is_/same_as :: [Kyegegwa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.internal.md) 
+
+### #is_/same_as :: [Kyegegwa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.protect.md) 
+
+### #is_/same_as :: [Kyegegwa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.private.md) 
+
+### #is_/same_as :: [Kyegegwa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.personal.md) 
+
+### #is_/same_as :: [Kyegegwa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.secret.md)
 

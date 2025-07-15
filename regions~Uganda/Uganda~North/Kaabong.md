@@ -40,11 +40,18 @@ markerFolder: ./Kaabong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kaabong|Kaabong]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kaabong.public|Kaabong.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaabong.internal|Kaabong.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaabong.protect|Kaabong.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaabong.private|Kaabong.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaabong.personal|Kaabong.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaabong.secret|Kaabong.secret]] 
+
+### #is_/same_as :: [Kaabong](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.md) 
+
+### #is_/same_as :: [Kaabong.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.public.md) 
+
+### #is_/same_as :: [Kaabong.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.internal.md) 
+
+### #is_/same_as :: [Kaabong.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.protect.md) 
+
+### #is_/same_as :: [Kaabong.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.private.md) 
+
+### #is_/same_as :: [Kaabong.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.personal.md) 
+
+### #is_/same_as :: [Kaabong.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kaabong.secret.md)
 

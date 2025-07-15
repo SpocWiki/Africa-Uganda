@@ -40,11 +40,18 @@ markerFolder: ./Ibanda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Ibanda|Ibanda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Ibanda.public|Ibanda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ibanda.internal|Ibanda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ibanda.protect|Ibanda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Ibanda.private|Ibanda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ibanda.personal|Ibanda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ibanda.secret|Ibanda.secret]] 
+
+### #is_/same_as :: [Ibanda](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.md) 
+
+### #is_/same_as :: [Ibanda.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.public.md) 
+
+### #is_/same_as :: [Ibanda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.internal.md) 
+
+### #is_/same_as :: [Ibanda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.protect.md) 
+
+### #is_/same_as :: [Ibanda.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.private.md) 
+
+### #is_/same_as :: [Ibanda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.personal.md) 
+
+### #is_/same_as :: [Ibanda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ibanda.secret.md)
 

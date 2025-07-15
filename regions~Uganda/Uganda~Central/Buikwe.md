@@ -40,11 +40,18 @@ markerFolder: ./Buikwe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buikwe|Buikwe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buikwe.public|Buikwe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buikwe.internal|Buikwe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buikwe.protect|Buikwe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buikwe.private|Buikwe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buikwe.personal|Buikwe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buikwe.secret|Buikwe.secret]] 
+
+### #is_/same_as :: [Buikwe](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.md) 
+
+### #is_/same_as :: [Buikwe.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.public.md) 
+
+### #is_/same_as :: [Buikwe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.internal.md) 
+
+### #is_/same_as :: [Buikwe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.protect.md) 
+
+### #is_/same_as :: [Buikwe.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.private.md) 
+
+### #is_/same_as :: [Buikwe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.personal.md) 
+
+### #is_/same_as :: [Buikwe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buikwe.secret.md)
 

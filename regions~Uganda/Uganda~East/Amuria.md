@@ -40,11 +40,18 @@ markerFolder: ./Amuria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amuria|Amuria]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amuria.public|Amuria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amuria.internal|Amuria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amuria.protect|Amuria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amuria.private|Amuria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amuria.personal|Amuria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amuria.secret|Amuria.secret]] 
+
+### #is_/same_as :: [Amuria](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.md) 
+
+### #is_/same_as :: [Amuria.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.public.md) 
+
+### #is_/same_as :: [Amuria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.internal.md) 
+
+### #is_/same_as :: [Amuria.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.protect.md) 
+
+### #is_/same_as :: [Amuria.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.private.md) 
+
+### #is_/same_as :: [Amuria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.personal.md) 
+
+### #is_/same_as :: [Amuria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Amuria.secret.md)
 

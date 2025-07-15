@@ -40,11 +40,18 @@ markerFolder: ./Koboko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Koboko|Koboko]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Koboko.public|Koboko.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Koboko.internal|Koboko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Koboko.protect|Koboko.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Koboko.private|Koboko.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Koboko.personal|Koboko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Koboko.secret|Koboko.secret]] 
+
+### #is_/same_as :: [Koboko](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.md) 
+
+### #is_/same_as :: [Koboko.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.public.md) 
+
+### #is_/same_as :: [Koboko.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.internal.md) 
+
+### #is_/same_as :: [Koboko.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.protect.md) 
+
+### #is_/same_as :: [Koboko.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.private.md) 
+
+### #is_/same_as :: [Koboko.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.personal.md) 
+
+### #is_/same_as :: [Koboko.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Koboko.secret.md)
 

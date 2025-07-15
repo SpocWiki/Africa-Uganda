@@ -40,11 +40,18 @@ markerFolder: ./Bulambuli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bulambuli|Bulambuli]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bulambuli.public|Bulambuli.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bulambuli.internal|Bulambuli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bulambuli.protect|Bulambuli.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bulambuli.private|Bulambuli.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bulambuli.personal|Bulambuli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bulambuli.secret|Bulambuli.secret]] 
+
+### #is_/same_as :: [Bulambuli](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.md) 
+
+### #is_/same_as :: [Bulambuli.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.public.md) 
+
+### #is_/same_as :: [Bulambuli.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.internal.md) 
+
+### #is_/same_as :: [Bulambuli.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.protect.md) 
+
+### #is_/same_as :: [Bulambuli.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.private.md) 
+
+### #is_/same_as :: [Bulambuli.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.personal.md) 
+
+### #is_/same_as :: [Bulambuli.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bulambuli.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Buvuma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buvuma|Buvuma]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buvuma.public|Buvuma.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buvuma.internal|Buvuma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buvuma.protect|Buvuma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buvuma.private|Buvuma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buvuma.personal|Buvuma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buvuma.secret|Buvuma.secret]] 
+
+### #is_/same_as :: [Buvuma](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.md) 
+
+### #is_/same_as :: [Buvuma.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.public.md) 
+
+### #is_/same_as :: [Buvuma.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.internal.md) 
+
+### #is_/same_as :: [Buvuma.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.protect.md) 
+
+### #is_/same_as :: [Buvuma.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.private.md) 
+
+### #is_/same_as :: [Buvuma.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.personal.md) 
+
+### #is_/same_as :: [Buvuma.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Buvuma.secret.md)
 

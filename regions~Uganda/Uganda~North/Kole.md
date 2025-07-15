@@ -40,11 +40,18 @@ markerFolder: ./Kole/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kole|Kole]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kole.public|Kole.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kole.internal|Kole.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kole.protect|Kole.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kole.private|Kole.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kole.personal|Kole.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kole.secret|Kole.secret]] 
+
+### #is_/same_as :: [Kole](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.md) 
+
+### #is_/same_as :: [Kole.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.public.md) 
+
+### #is_/same_as :: [Kole.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.internal.md) 
+
+### #is_/same_as :: [Kole.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.protect.md) 
+
+### #is_/same_as :: [Kole.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.private.md) 
+
+### #is_/same_as :: [Kole.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.personal.md) 
+
+### #is_/same_as :: [Kole.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kole.secret.md)
 

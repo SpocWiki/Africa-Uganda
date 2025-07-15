@@ -40,11 +40,18 @@ markerFolder: ./Katakwi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Katakwi|Katakwi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Katakwi.public|Katakwi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Katakwi.internal|Katakwi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Katakwi.protect|Katakwi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Katakwi.private|Katakwi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Katakwi.personal|Katakwi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Katakwi.secret|Katakwi.secret]] 
+
+### #is_/same_as :: [Katakwi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.md) 
+
+### #is_/same_as :: [Katakwi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.public.md) 
+
+### #is_/same_as :: [Katakwi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.internal.md) 
+
+### #is_/same_as :: [Katakwi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.protect.md) 
+
+### #is_/same_as :: [Katakwi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.private.md) 
+
+### #is_/same_as :: [Katakwi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.personal.md) 
+
+### #is_/same_as :: [Katakwi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Katakwi.secret.md)
 

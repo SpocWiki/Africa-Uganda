@@ -40,11 +40,18 @@ markerFolder: ./Oyam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Oyam|Oyam]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Oyam.public|Oyam.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Oyam.internal|Oyam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Oyam.protect|Oyam.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Oyam.private|Oyam.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Oyam.personal|Oyam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Oyam.secret|Oyam.secret]] 
+
+### #is_/same_as :: [Oyam](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.md) 
+
+### #is_/same_as :: [Oyam.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.public.md) 
+
+### #is_/same_as :: [Oyam.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.internal.md) 
+
+### #is_/same_as :: [Oyam.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.protect.md) 
+
+### #is_/same_as :: [Oyam.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.private.md) 
+
+### #is_/same_as :: [Oyam.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.personal.md) 
+
+### #is_/same_as :: [Oyam.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Oyam.secret.md)
 

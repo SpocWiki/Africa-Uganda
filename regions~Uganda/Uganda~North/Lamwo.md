@@ -40,11 +40,18 @@ markerFolder: ./Lamwo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Lamwo|Lamwo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Lamwo.public|Lamwo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lamwo.internal|Lamwo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lamwo.protect|Lamwo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Lamwo.private|Lamwo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lamwo.personal|Lamwo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lamwo.secret|Lamwo.secret]] 
+
+### #is_/same_as :: [Lamwo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.md) 
+
+### #is_/same_as :: [Lamwo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.public.md) 
+
+### #is_/same_as :: [Lamwo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.internal.md) 
+
+### #is_/same_as :: [Lamwo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.protect.md) 
+
+### #is_/same_as :: [Lamwo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.private.md) 
+
+### #is_/same_as :: [Lamwo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.personal.md) 
+
+### #is_/same_as :: [Lamwo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lamwo.secret.md)
 

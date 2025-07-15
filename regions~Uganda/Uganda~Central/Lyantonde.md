@@ -40,11 +40,18 @@ markerFolder: ./Lyantonde/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Lyantonde|Lyantonde]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Lyantonde.public|Lyantonde.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lyantonde.internal|Lyantonde.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lyantonde.protect|Lyantonde.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Lyantonde.private|Lyantonde.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lyantonde.personal|Lyantonde.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lyantonde.secret|Lyantonde.secret]] 
+
+### #is_/same_as :: [Lyantonde](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.md) 
+
+### #is_/same_as :: [Lyantonde.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.public.md) 
+
+### #is_/same_as :: [Lyantonde.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.internal.md) 
+
+### #is_/same_as :: [Lyantonde.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.protect.md) 
+
+### #is_/same_as :: [Lyantonde.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.private.md) 
+
+### #is_/same_as :: [Lyantonde.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.personal.md) 
+
+### #is_/same_as :: [Lyantonde.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.secret.md)
 

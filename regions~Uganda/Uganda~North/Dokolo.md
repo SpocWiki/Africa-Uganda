@@ -40,11 +40,18 @@ markerFolder: ./Dokolo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Dokolo|Dokolo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Dokolo.public|Dokolo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Dokolo.internal|Dokolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Dokolo.protect|Dokolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Dokolo.private|Dokolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Dokolo.personal|Dokolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Dokolo.secret|Dokolo.secret]] 
+
+### #is_/same_as :: [Dokolo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.md) 
+
+### #is_/same_as :: [Dokolo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.public.md) 
+
+### #is_/same_as :: [Dokolo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.internal.md) 
+
+### #is_/same_as :: [Dokolo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.protect.md) 
+
+### #is_/same_as :: [Dokolo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.private.md) 
+
+### #is_/same_as :: [Dokolo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.personal.md) 
+
+### #is_/same_as :: [Dokolo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Dokolo.secret.md)
 

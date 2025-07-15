@@ -40,11 +40,18 @@ markerFolder: ./Yumbe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Yumbe|Yumbe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Yumbe.public|Yumbe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Yumbe.internal|Yumbe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Yumbe.protect|Yumbe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Yumbe.private|Yumbe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Yumbe.personal|Yumbe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Yumbe.secret|Yumbe.secret]] 
+
+### #is_/same_as :: [Yumbe](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.md) 
+
+### #is_/same_as :: [Yumbe.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.public.md) 
+
+### #is_/same_as :: [Yumbe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.internal.md) 
+
+### #is_/same_as :: [Yumbe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.protect.md) 
+
+### #is_/same_as :: [Yumbe.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.private.md) 
+
+### #is_/same_as :: [Yumbe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.personal.md) 
+
+### #is_/same_as :: [Yumbe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Yumbe.secret.md)
 

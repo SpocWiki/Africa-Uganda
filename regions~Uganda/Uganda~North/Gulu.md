@@ -40,11 +40,18 @@ markerFolder: ./Gulu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Gulu|Gulu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Gulu.public|Gulu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Gulu.internal|Gulu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Gulu.protect|Gulu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Gulu.private|Gulu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Gulu.personal|Gulu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Gulu.secret|Gulu.secret]] 
+
+### #is_/same_as :: [Gulu](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.md) 
+
+### #is_/same_as :: [Gulu.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.public.md) 
+
+### #is_/same_as :: [Gulu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.internal.md) 
+
+### #is_/same_as :: [Gulu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.protect.md) 
+
+### #is_/same_as :: [Gulu.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.private.md) 
+
+### #is_/same_as :: [Gulu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.personal.md) 
+
+### #is_/same_as :: [Gulu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Gulu.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Alebtong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Alebtong|Alebtong]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Alebtong.public|Alebtong.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Alebtong.internal|Alebtong.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Alebtong.protect|Alebtong.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Alebtong.private|Alebtong.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Alebtong.personal|Alebtong.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Alebtong.secret|Alebtong.secret]] 
+
+### #is_/same_as :: [Alebtong](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.md) 
+
+### #is_/same_as :: [Alebtong.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.public.md) 
+
+### #is_/same_as :: [Alebtong.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.internal.md) 
+
+### #is_/same_as :: [Alebtong.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.protect.md) 
+
+### #is_/same_as :: [Alebtong.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.private.md) 
+
+### #is_/same_as :: [Alebtong.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.personal.md) 
+
+### #is_/same_as :: [Alebtong.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.secret.md)
 

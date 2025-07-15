@@ -40,11 +40,18 @@ markerFolder: ./Kayunga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kayunga|Kayunga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kayunga.public|Kayunga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kayunga.internal|Kayunga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kayunga.protect|Kayunga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kayunga.private|Kayunga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kayunga.personal|Kayunga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kayunga.secret|Kayunga.secret]] 
+
+### #is_/same_as :: [Kayunga](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.md) 
+
+### #is_/same_as :: [Kayunga.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.public.md) 
+
+### #is_/same_as :: [Kayunga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.internal.md) 
+
+### #is_/same_as :: [Kayunga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.protect.md) 
+
+### #is_/same_as :: [Kayunga.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.private.md) 
+
+### #is_/same_as :: [Kayunga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.personal.md) 
+
+### #is_/same_as :: [Kayunga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kayunga.secret.md)
 

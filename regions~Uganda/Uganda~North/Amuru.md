@@ -40,11 +40,18 @@ markerFolder: ./Amuru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amuru|Amuru]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amuru.public|Amuru.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amuru.internal|Amuru.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amuru.protect|Amuru.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amuru.private|Amuru.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amuru.personal|Amuru.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amuru.secret|Amuru.secret]] 
+
+### #is_/same_as :: [Amuru](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.md) 
+
+### #is_/same_as :: [Amuru.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.public.md) 
+
+### #is_/same_as :: [Amuru.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.internal.md) 
+
+### #is_/same_as :: [Amuru.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.protect.md) 
+
+### #is_/same_as :: [Amuru.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.private.md) 
+
+### #is_/same_as :: [Amuru.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.personal.md) 
+
+### #is_/same_as :: [Amuru.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amuru.secret.md)
 

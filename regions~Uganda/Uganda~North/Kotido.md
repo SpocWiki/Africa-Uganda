@@ -40,11 +40,18 @@ markerFolder: ./Kotido/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kotido|Kotido]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kotido.public|Kotido.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kotido.internal|Kotido.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kotido.protect|Kotido.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kotido.private|Kotido.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kotido.personal|Kotido.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kotido.secret|Kotido.secret]] 
+
+### #is_/same_as :: [Kotido](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.md) 
+
+### #is_/same_as :: [Kotido.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.public.md) 
+
+### #is_/same_as :: [Kotido.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.internal.md) 
+
+### #is_/same_as :: [Kotido.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.protect.md) 
+
+### #is_/same_as :: [Kotido.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.private.md) 
+
+### #is_/same_as :: [Kotido.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.personal.md) 
+
+### #is_/same_as :: [Kotido.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kotido.secret.md)
 

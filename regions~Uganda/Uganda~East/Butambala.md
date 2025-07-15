@@ -40,11 +40,18 @@ markerFolder: ./Butambala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Butambala|Butambala]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Butambala.public|Butambala.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Butambala.internal|Butambala.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Butambala.protect|Butambala.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Butambala.private|Butambala.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Butambala.personal|Butambala.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Butambala.secret|Butambala.secret]] 
+
+### #is_/same_as :: [Butambala](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.md) 
+
+### #is_/same_as :: [Butambala.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.public.md) 
+
+### #is_/same_as :: [Butambala.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.internal.md) 
+
+### #is_/same_as :: [Butambala.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.protect.md) 
+
+### #is_/same_as :: [Butambala.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.private.md) 
+
+### #is_/same_as :: [Butambala.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.personal.md) 
+
+### #is_/same_as :: [Butambala.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butambala.secret.md)
 

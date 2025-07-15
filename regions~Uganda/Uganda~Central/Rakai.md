@@ -40,11 +40,18 @@ markerFolder: ./Rakai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Rakai|Rakai]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Rakai.public|Rakai.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rakai.internal|Rakai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rakai.protect|Rakai.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Rakai.private|Rakai.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rakai.personal|Rakai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rakai.secret|Rakai.secret]] 
+
+### #is_/same_as :: [Rakai](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.md) 
+
+### #is_/same_as :: [Rakai.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.public.md) 
+
+### #is_/same_as :: [Rakai.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.internal.md) 
+
+### #is_/same_as :: [Rakai.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.protect.md) 
+
+### #is_/same_as :: [Rakai.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.private.md) 
+
+### #is_/same_as :: [Rakai.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.personal.md) 
+
+### #is_/same_as :: [Rakai.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Rakai.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kabarole/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kabarole|Kabarole]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kabarole.public|Kabarole.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kabarole.internal|Kabarole.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kabarole.protect|Kabarole.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kabarole.private|Kabarole.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kabarole.personal|Kabarole.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kabarole.secret|Kabarole.secret]] 
+
+### #is_/same_as :: [Kabarole](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.md) 
+
+### #is_/same_as :: [Kabarole.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.public.md) 
+
+### #is_/same_as :: [Kabarole.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.internal.md) 
+
+### #is_/same_as :: [Kabarole.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.protect.md) 
+
+### #is_/same_as :: [Kabarole.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.private.md) 
+
+### #is_/same_as :: [Kabarole.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.personal.md) 
+
+### #is_/same_as :: [Kabarole.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabarole.secret.md)
 

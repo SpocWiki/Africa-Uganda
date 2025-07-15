@@ -40,11 +40,18 @@ markerFolder: ./Otuke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Otuke|Otuke]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Otuke.public|Otuke.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Otuke.internal|Otuke.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Otuke.protect|Otuke.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Otuke.private|Otuke.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Otuke.personal|Otuke.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Otuke.secret|Otuke.secret]] 
+
+### #is_/same_as :: [Otuke](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.md) 
+
+### #is_/same_as :: [Otuke.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.public.md) 
+
+### #is_/same_as :: [Otuke.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.internal.md) 
+
+### #is_/same_as :: [Otuke.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.protect.md) 
+
+### #is_/same_as :: [Otuke.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.private.md) 
+
+### #is_/same_as :: [Otuke.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.personal.md) 
+
+### #is_/same_as :: [Otuke.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Otuke.secret.md)
 

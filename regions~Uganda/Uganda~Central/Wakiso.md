@@ -40,11 +40,18 @@ markerFolder: ./Wakiso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Wakiso|Wakiso]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Wakiso.public|Wakiso.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Wakiso.internal|Wakiso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Wakiso.protect|Wakiso.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Wakiso.private|Wakiso.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Wakiso.personal|Wakiso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Wakiso.secret|Wakiso.secret]] 
+
+### #is_/same_as :: [Wakiso](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.md) 
+
+### #is_/same_as :: [Wakiso.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.public.md) 
+
+### #is_/same_as :: [Wakiso.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.internal.md) 
+
+### #is_/same_as :: [Wakiso.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.protect.md) 
+
+### #is_/same_as :: [Wakiso.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.private.md) 
+
+### #is_/same_as :: [Wakiso.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.personal.md) 
+
+### #is_/same_as :: [Wakiso.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Wakiso.secret.md)
 

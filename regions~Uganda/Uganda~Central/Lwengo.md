@@ -40,11 +40,18 @@ markerFolder: ./Lwengo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Lwengo|Lwengo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Lwengo.public|Lwengo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lwengo.internal|Lwengo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lwengo.protect|Lwengo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Lwengo.private|Lwengo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lwengo.personal|Lwengo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lwengo.secret|Lwengo.secret]] 
+
+### #is_/same_as :: [Lwengo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.md) 
+
+### #is_/same_as :: [Lwengo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.public.md) 
+
+### #is_/same_as :: [Lwengo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.internal.md) 
+
+### #is_/same_as :: [Lwengo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.protect.md) 
+
+### #is_/same_as :: [Lwengo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.private.md) 
+
+### #is_/same_as :: [Lwengo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.personal.md) 
+
+### #is_/same_as :: [Lwengo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lwengo.secret.md)
 

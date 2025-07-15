@@ -40,11 +40,18 @@ markerFolder: ./Iganga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Iganga|Iganga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Iganga.public|Iganga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Iganga.internal|Iganga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Iganga.protect|Iganga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Iganga.private|Iganga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Iganga.personal|Iganga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Iganga.secret|Iganga.secret]] 
+
+### #is_/same_as :: [Iganga](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.md) 
+
+### #is_/same_as :: [Iganga.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.public.md) 
+
+### #is_/same_as :: [Iganga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.internal.md) 
+
+### #is_/same_as :: [Iganga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.protect.md) 
+
+### #is_/same_as :: [Iganga.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.private.md) 
+
+### #is_/same_as :: [Iganga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.personal.md) 
+
+### #is_/same_as :: [Iganga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Iganga.secret.md)
 

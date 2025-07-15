@@ -40,11 +40,18 @@ markerFolder: ./Napak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Napak|Napak]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Napak.public|Napak.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Napak.internal|Napak.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Napak.protect|Napak.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Napak.private|Napak.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Napak.personal|Napak.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Napak.secret|Napak.secret]] 
+
+### #is_/same_as :: [Napak](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.md) 
+
+### #is_/same_as :: [Napak.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.public.md) 
+
+### #is_/same_as :: [Napak.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.internal.md) 
+
+### #is_/same_as :: [Napak.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.protect.md) 
+
+### #is_/same_as :: [Napak.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.private.md) 
+
+### #is_/same_as :: [Napak.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.personal.md) 
+
+### #is_/same_as :: [Napak.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Napak.secret.md)
 

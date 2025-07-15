@@ -40,11 +40,18 @@ markerFolder: ./Kiryandongo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kiryandongo|Kiryandongo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kiryandongo.public|Kiryandongo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kiryandongo.internal|Kiryandongo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kiryandongo.protect|Kiryandongo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kiryandongo.private|Kiryandongo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kiryandongo.personal|Kiryandongo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kiryandongo.secret|Kiryandongo.secret]] 
+
+### #is_/same_as :: [Kiryandongo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.md) 
+
+### #is_/same_as :: [Kiryandongo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.public.md) 
+
+### #is_/same_as :: [Kiryandongo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.internal.md) 
+
+### #is_/same_as :: [Kiryandongo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.protect.md) 
+
+### #is_/same_as :: [Kiryandongo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.private.md) 
+
+### #is_/same_as :: [Kiryandongo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.personal.md) 
+
+### #is_/same_as :: [Kiryandongo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.secret.md)
 

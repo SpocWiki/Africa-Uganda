@@ -40,11 +40,18 @@ markerFolder: ./Hoima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Hoima|Hoima]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Hoima.public|Hoima.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Hoima.internal|Hoima.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Hoima.protect|Hoima.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Hoima.private|Hoima.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Hoima.personal|Hoima.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Hoima.secret|Hoima.secret]] 
+
+### #is_/same_as :: [Hoima](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.md) 
+
+### #is_/same_as :: [Hoima.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.public.md) 
+
+### #is_/same_as :: [Hoima.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.internal.md) 
+
+### #is_/same_as :: [Hoima.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.protect.md) 
+
+### #is_/same_as :: [Hoima.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.private.md) 
+
+### #is_/same_as :: [Hoima.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.personal.md) 
+
+### #is_/same_as :: [Hoima.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Hoima.secret.md)
 

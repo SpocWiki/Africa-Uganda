@@ -40,11 +40,18 @@ markerFolder: ./Apac/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Apac|Apac]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Apac.public|Apac.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Apac.internal|Apac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Apac.protect|Apac.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Apac.private|Apac.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Apac.personal|Apac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Apac.secret|Apac.secret]] 
+
+### #is_/same_as :: [Apac](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.md) 
+
+### #is_/same_as :: [Apac.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.public.md) 
+
+### #is_/same_as :: [Apac.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.internal.md) 
+
+### #is_/same_as :: [Apac.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.protect.md) 
+
+### #is_/same_as :: [Apac.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.private.md) 
+
+### #is_/same_as :: [Apac.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.personal.md) 
+
+### #is_/same_as :: [Apac.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Apac.secret.md)
 

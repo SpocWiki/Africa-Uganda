@@ -40,11 +40,18 @@ markerFolder: ./Bukwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bukwa|Bukwa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bukwa.public|Bukwa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukwa.internal|Bukwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukwa.protect|Bukwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukwa.private|Bukwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukwa.personal|Bukwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukwa.secret|Bukwa.secret]] 
+
+### #is_/same_as :: [Bukwa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.md) 
+
+### #is_/same_as :: [Bukwa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.public.md) 
+
+### #is_/same_as :: [Bukwa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.internal.md) 
+
+### #is_/same_as :: [Bukwa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.protect.md) 
+
+### #is_/same_as :: [Bukwa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.private.md) 
+
+### #is_/same_as :: [Bukwa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.personal.md) 
+
+### #is_/same_as :: [Bukwa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukwa.secret.md)
 

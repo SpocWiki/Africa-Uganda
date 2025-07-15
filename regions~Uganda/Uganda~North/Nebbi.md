@@ -40,11 +40,18 @@ markerFolder: ./Nebbi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nebbi|Nebbi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nebbi.public|Nebbi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nebbi.internal|Nebbi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nebbi.protect|Nebbi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nebbi.private|Nebbi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nebbi.personal|Nebbi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nebbi.secret|Nebbi.secret]] 
+
+### #is_/same_as :: [Nebbi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.md) 
+
+### #is_/same_as :: [Nebbi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.public.md) 
+
+### #is_/same_as :: [Nebbi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.internal.md) 
+
+### #is_/same_as :: [Nebbi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.protect.md) 
+
+### #is_/same_as :: [Nebbi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.private.md) 
+
+### #is_/same_as :: [Nebbi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.personal.md) 
+
+### #is_/same_as :: [Nebbi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nebbi.secret.md)
 

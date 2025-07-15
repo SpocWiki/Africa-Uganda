@@ -40,11 +40,18 @@ markerFolder: ./Mitooma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mitooma|Mitooma]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mitooma.public|Mitooma.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mitooma.internal|Mitooma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mitooma.protect|Mitooma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mitooma.private|Mitooma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mitooma.personal|Mitooma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mitooma.secret|Mitooma.secret]] 
+
+### #is_/same_as :: [Mitooma](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.md) 
+
+### #is_/same_as :: [Mitooma.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.public.md) 
+
+### #is_/same_as :: [Mitooma.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.internal.md) 
+
+### #is_/same_as :: [Mitooma.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.protect.md) 
+
+### #is_/same_as :: [Mitooma.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.private.md) 
+
+### #is_/same_as :: [Mitooma.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.personal.md) 
+
+### #is_/same_as :: [Mitooma.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mitooma.secret.md)
 

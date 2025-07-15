@@ -40,11 +40,18 @@ markerFolder: ./Sheema/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Sheema|Sheema]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Sheema.public|Sheema.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sheema.internal|Sheema.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sheema.protect|Sheema.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Sheema.private|Sheema.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sheema.personal|Sheema.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sheema.secret|Sheema.secret]] 
+
+### #is_/same_as :: [Sheema](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.md) 
+
+### #is_/same_as :: [Sheema.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.public.md) 
+
+### #is_/same_as :: [Sheema.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.internal.md) 
+
+### #is_/same_as :: [Sheema.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.protect.md) 
+
+### #is_/same_as :: [Sheema.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.private.md) 
+
+### #is_/same_as :: [Sheema.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.personal.md) 
+
+### #is_/same_as :: [Sheema.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Sheema.secret.md)
 

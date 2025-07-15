@@ -40,11 +40,18 @@ markerFolder: ./Zombo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Zombo|Zombo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Zombo.public|Zombo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Zombo.internal|Zombo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Zombo.protect|Zombo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Zombo.private|Zombo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Zombo.personal|Zombo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Zombo.secret|Zombo.secret]] 
+
+### #is_/same_as :: [Zombo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.md) 
+
+### #is_/same_as :: [Zombo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.public.md) 
+
+### #is_/same_as :: [Zombo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.internal.md) 
+
+### #is_/same_as :: [Zombo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.protect.md) 
+
+### #is_/same_as :: [Zombo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.private.md) 
+
+### #is_/same_as :: [Zombo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.personal.md) 
+
+### #is_/same_as :: [Zombo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Zombo.secret.md)
 

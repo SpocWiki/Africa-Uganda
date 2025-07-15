@@ -40,11 +40,18 @@ markerFolder: ./Lira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Lira|Lira]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Lira.public|Lira.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lira.internal|Lira.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lira.protect|Lira.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Lira.private|Lira.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lira.personal|Lira.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lira.secret|Lira.secret]] 
+
+### #is_/same_as :: [Lira](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.md) 
+
+### #is_/same_as :: [Lira.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.public.md) 
+
+### #is_/same_as :: [Lira.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.internal.md) 
+
+### #is_/same_as :: [Lira.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.protect.md) 
+
+### #is_/same_as :: [Lira.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.private.md) 
+
+### #is_/same_as :: [Lira.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.personal.md) 
+
+### #is_/same_as :: [Lira.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Lira.secret.md)
 

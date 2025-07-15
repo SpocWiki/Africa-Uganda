@@ -40,11 +40,18 @@ markerFolder: ./Kasese/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kasese|Kasese]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kasese.public|Kasese.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kasese.internal|Kasese.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kasese.protect|Kasese.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kasese.private|Kasese.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kasese.personal|Kasese.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kasese.secret|Kasese.secret]] 
+
+### #is_/same_as :: [Kasese](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.md) 
+
+### #is_/same_as :: [Kasese.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.public.md) 
+
+### #is_/same_as :: [Kasese.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.internal.md) 
+
+### #is_/same_as :: [Kasese.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.protect.md) 
+
+### #is_/same_as :: [Kasese.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.private.md) 
+
+### #is_/same_as :: [Kasese.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.personal.md) 
+
+### #is_/same_as :: [Kasese.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kasese.secret.md)
 

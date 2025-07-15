@@ -40,11 +40,18 @@ markerFolder: ./Adjumani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Adjumani|Adjumani]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Adjumani.public|Adjumani.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Adjumani.internal|Adjumani.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Adjumani.protect|Adjumani.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Adjumani.private|Adjumani.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Adjumani.personal|Adjumani.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Adjumani.secret|Adjumani.secret]] 
+
+### #is_/same_as :: [Adjumani](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.md) 
+
+### #is_/same_as :: [Adjumani.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.public.md) 
+
+### #is_/same_as :: [Adjumani.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.internal.md) 
+
+### #is_/same_as :: [Adjumani.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.protect.md) 
+
+### #is_/same_as :: [Adjumani.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.private.md) 
+
+### #is_/same_as :: [Adjumani.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.personal.md) 
+
+### #is_/same_as :: [Adjumani.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.secret.md)
 

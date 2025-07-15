@@ -40,11 +40,18 @@ markerFolder: ./Soroti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Soroti|Soroti]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Soroti.public|Soroti.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Soroti.internal|Soroti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Soroti.protect|Soroti.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Soroti.private|Soroti.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Soroti.personal|Soroti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Soroti.secret|Soroti.secret]] 
+
+### #is_/same_as :: [Soroti](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.md) 
+
+### #is_/same_as :: [Soroti.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.public.md) 
+
+### #is_/same_as :: [Soroti.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.internal.md) 
+
+### #is_/same_as :: [Soroti.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.protect.md) 
+
+### #is_/same_as :: [Soroti.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.private.md) 
+
+### #is_/same_as :: [Soroti.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.personal.md) 
+
+### #is_/same_as :: [Soroti.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Soroti.secret.md)
 

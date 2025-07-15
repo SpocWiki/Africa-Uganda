@@ -40,11 +40,18 @@ markerFolder: ./Abim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Abim|Abim]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Abim.public|Abim.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Abim.internal|Abim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Abim.protect|Abim.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Abim.private|Abim.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Abim.personal|Abim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Abim.secret|Abim.secret]] 
+
+### #is_/same_as :: [Abim](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.md) 
+
+### #is_/same_as :: [Abim.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.public.md) 
+
+### #is_/same_as :: [Abim.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.internal.md) 
+
+### #is_/same_as :: [Abim.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.protect.md) 
+
+### #is_/same_as :: [Abim.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.private.md) 
+
+### #is_/same_as :: [Abim.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.personal.md) 
+
+### #is_/same_as :: [Abim.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Abim.secret.md)
 

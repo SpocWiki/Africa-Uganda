@@ -40,11 +40,18 @@ markerFolder: ./Bugiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bugiri|Bugiri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bugiri.public|Bugiri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bugiri.internal|Bugiri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bugiri.protect|Bugiri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bugiri.private|Bugiri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bugiri.personal|Bugiri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bugiri.secret|Bugiri.secret]] 
+
+### #is_/same_as :: [Bugiri](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.md) 
+
+### #is_/same_as :: [Bugiri.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.public.md) 
+
+### #is_/same_as :: [Bugiri.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.internal.md) 
+
+### #is_/same_as :: [Bugiri.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.protect.md) 
+
+### #is_/same_as :: [Bugiri.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.private.md) 
+
+### #is_/same_as :: [Bugiri.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.personal.md) 
+
+### #is_/same_as :: [Bugiri.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bugiri.secret.md)
 

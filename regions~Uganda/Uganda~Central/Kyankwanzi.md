@@ -40,11 +40,18 @@ markerFolder: ./Kyankwanzi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kyankwanzi|Kyankwanzi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.public|Kyankwanzi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.internal|Kyankwanzi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.protect|Kyankwanzi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.private|Kyankwanzi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.personal|Kyankwanzi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.secret|Kyankwanzi.secret]] 
+
+### #is_/same_as :: [Kyankwanzi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.md) 
+
+### #is_/same_as :: [Kyankwanzi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.public.md) 
+
+### #is_/same_as :: [Kyankwanzi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.internal.md) 
+
+### #is_/same_as :: [Kyankwanzi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.protect.md) 
+
+### #is_/same_as :: [Kyankwanzi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.private.md) 
+
+### #is_/same_as :: [Kyankwanzi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.personal.md) 
+
+### #is_/same_as :: [Kyankwanzi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.secret.md)
 

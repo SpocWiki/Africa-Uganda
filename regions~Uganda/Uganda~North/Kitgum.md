@@ -40,11 +40,18 @@ markerFolder: ./Kitgum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kitgum|Kitgum]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kitgum.public|Kitgum.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kitgum.internal|Kitgum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kitgum.protect|Kitgum.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kitgum.private|Kitgum.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kitgum.personal|Kitgum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kitgum.secret|Kitgum.secret]] 
+
+### #is_/same_as :: [Kitgum](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.md) 
+
+### #is_/same_as :: [Kitgum.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.public.md) 
+
+### #is_/same_as :: [Kitgum.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.internal.md) 
+
+### #is_/same_as :: [Kitgum.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.protect.md) 
+
+### #is_/same_as :: [Kitgum.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.private.md) 
+
+### #is_/same_as :: [Kitgum.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.personal.md) 
+
+### #is_/same_as :: [Kitgum.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Kitgum.secret.md)
 

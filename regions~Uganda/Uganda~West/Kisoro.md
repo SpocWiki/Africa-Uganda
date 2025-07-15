@@ -40,11 +40,18 @@ markerFolder: ./Kisoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kisoro|Kisoro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kisoro.public|Kisoro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kisoro.internal|Kisoro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kisoro.protect|Kisoro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kisoro.private|Kisoro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kisoro.personal|Kisoro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kisoro.secret|Kisoro.secret]] 
+
+### #is_/same_as :: [Kisoro](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.md) 
+
+### #is_/same_as :: [Kisoro.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.public.md) 
+
+### #is_/same_as :: [Kisoro.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.internal.md) 
+
+### #is_/same_as :: [Kisoro.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.protect.md) 
+
+### #is_/same_as :: [Kisoro.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.private.md) 
+
+### #is_/same_as :: [Kisoro.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.personal.md) 
+
+### #is_/same_as :: [Kisoro.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kisoro.secret.md)
 

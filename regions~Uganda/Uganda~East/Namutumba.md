@@ -40,11 +40,18 @@ markerFolder: ./Namutumba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Namutumba|Namutumba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Namutumba.public|Namutumba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Namutumba.internal|Namutumba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Namutumba.protect|Namutumba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Namutumba.private|Namutumba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Namutumba.personal|Namutumba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Namutumba.secret|Namutumba.secret]] 
+
+### #is_/same_as :: [Namutumba](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.md) 
+
+### #is_/same_as :: [Namutumba.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.public.md) 
+
+### #is_/same_as :: [Namutumba.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.internal.md) 
+
+### #is_/same_as :: [Namutumba.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.protect.md) 
+
+### #is_/same_as :: [Namutumba.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.private.md) 
+
+### #is_/same_as :: [Namutumba.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.personal.md) 
+
+### #is_/same_as :: [Namutumba.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Bukomansimbi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bukomansimbi|Bukomansimbi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.public|Bukomansimbi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.internal|Bukomansimbi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.protect|Bukomansimbi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.private|Bukomansimbi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.personal|Bukomansimbi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukomansimbi.secret|Bukomansimbi.secret]] 
+
+### #is_/same_as :: [Bukomansimbi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.md) 
+
+### #is_/same_as :: [Bukomansimbi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.public.md) 
+
+### #is_/same_as :: [Bukomansimbi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.internal.md) 
+
+### #is_/same_as :: [Bukomansimbi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.protect.md) 
+
+### #is_/same_as :: [Bukomansimbi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.private.md) 
+
+### #is_/same_as :: [Bukomansimbi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.personal.md) 
+
+### #is_/same_as :: [Bukomansimbi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.secret.md)
 

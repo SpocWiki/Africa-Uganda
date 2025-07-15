@@ -40,11 +40,18 @@ markerFolder: ./Amudat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amudat|Amudat]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amudat.public|Amudat.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amudat.internal|Amudat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amudat.protect|Amudat.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amudat.private|Amudat.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amudat.personal|Amudat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amudat.secret|Amudat.secret]] 
+
+### #is_/same_as :: [Amudat](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.md) 
+
+### #is_/same_as :: [Amudat.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.public.md) 
+
+### #is_/same_as :: [Amudat.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.internal.md) 
+
+### #is_/same_as :: [Amudat.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.protect.md) 
+
+### #is_/same_as :: [Amudat.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.private.md) 
+
+### #is_/same_as :: [Amudat.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.personal.md) 
+
+### #is_/same_as :: [Amudat.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amudat.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Namayingo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Namayingo|Namayingo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Namayingo.public|Namayingo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Namayingo.internal|Namayingo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Namayingo.protect|Namayingo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Namayingo.private|Namayingo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Namayingo.personal|Namayingo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Namayingo.secret|Namayingo.secret]] 
+
+### #is_/same_as :: [Namayingo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.md) 
+
+### #is_/same_as :: [Namayingo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.public.md) 
+
+### #is_/same_as :: [Namayingo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.internal.md) 
+
+### #is_/same_as :: [Namayingo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.protect.md) 
+
+### #is_/same_as :: [Namayingo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.private.md) 
+
+### #is_/same_as :: [Namayingo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.personal.md) 
+
+### #is_/same_as :: [Namayingo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namayingo.secret.md)
 

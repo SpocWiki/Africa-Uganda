@@ -40,11 +40,18 @@ markerFolder: ./Kanungu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kanungu|Kanungu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kanungu.public|Kanungu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kanungu.internal|Kanungu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kanungu.protect|Kanungu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kanungu.private|Kanungu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kanungu.personal|Kanungu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kanungu.secret|Kanungu.secret]] 
+
+### #is_/same_as :: [Kanungu](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.md) 
+
+### #is_/same_as :: [Kanungu.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.public.md) 
+
+### #is_/same_as :: [Kanungu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.internal.md) 
+
+### #is_/same_as :: [Kanungu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.protect.md) 
+
+### #is_/same_as :: [Kanungu.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.private.md) 
+
+### #is_/same_as :: [Kanungu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.personal.md) 
+
+### #is_/same_as :: [Kanungu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kanungu.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kamuli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kamuli|Kamuli]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamuli.public|Kamuli.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamuli.internal|Kamuli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamuli.protect|Kamuli.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamuli.private|Kamuli.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamuli.personal|Kamuli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamuli.secret|Kamuli.secret]] 
+
+### #is_/same_as :: [Kamuli](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.md) 
+
+### #is_/same_as :: [Kamuli.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.public.md) 
+
+### #is_/same_as :: [Kamuli.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.internal.md) 
+
+### #is_/same_as :: [Kamuli.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.protect.md) 
+
+### #is_/same_as :: [Kamuli.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.private.md) 
+
+### #is_/same_as :: [Kamuli.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.personal.md) 
+
+### #is_/same_as :: [Kamuli.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kamuli.secret.md)
 

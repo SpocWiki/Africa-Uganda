@@ -40,11 +40,18 @@ markerFolder: ./Kibale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kibale|Kibale]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kibale.public|Kibale.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibale.internal|Kibale.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibale.protect|Kibale.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibale.private|Kibale.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibale.personal|Kibale.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibale.secret|Kibale.secret]] 
+
+### #is_/same_as :: [Kibale](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.md) 
+
+### #is_/same_as :: [Kibale.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.public.md) 
+
+### #is_/same_as :: [Kibale.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.internal.md) 
+
+### #is_/same_as :: [Kibale.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.protect.md) 
+
+### #is_/same_as :: [Kibale.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.private.md) 
+
+### #is_/same_as :: [Kibale.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.personal.md) 
+
+### #is_/same_as :: [Kibale.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kibale.secret.md)
 

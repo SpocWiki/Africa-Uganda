@@ -40,11 +40,18 @@ markerFolder: ./Mukono/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mukono|Mukono]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mukono.public|Mukono.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mukono.internal|Mukono.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mukono.protect|Mukono.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mukono.private|Mukono.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mukono.personal|Mukono.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mukono.secret|Mukono.secret]] 
+
+### #is_/same_as :: [Mukono](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.md) 
+
+### #is_/same_as :: [Mukono.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.public.md) 
+
+### #is_/same_as :: [Mukono.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.internal.md) 
+
+### #is_/same_as :: [Mukono.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.protect.md) 
+
+### #is_/same_as :: [Mukono.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.private.md) 
+
+### #is_/same_as :: [Mukono.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.personal.md) 
+
+### #is_/same_as :: [Mukono.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Mukono.secret.md)
 

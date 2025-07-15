@@ -40,11 +40,18 @@ markerFolder: ./Tororo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Tororo|Tororo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Tororo.public|Tororo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Tororo.internal|Tororo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Tororo.protect|Tororo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Tororo.private|Tororo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Tororo.personal|Tororo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Tororo.secret|Tororo.secret]] 
+
+### #is_/same_as :: [Tororo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.md) 
+
+### #is_/same_as :: [Tororo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.public.md) 
+
+### #is_/same_as :: [Tororo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.internal.md) 
+
+### #is_/same_as :: [Tororo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.protect.md) 
+
+### #is_/same_as :: [Tororo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.private.md) 
+
+### #is_/same_as :: [Tororo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.personal.md) 
+
+### #is_/same_as :: [Tororo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Tororo.secret.md)
 

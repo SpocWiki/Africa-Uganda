@@ -40,11 +40,18 @@ markerFolder: ./Masaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Masaka|Masaka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Masaka.public|Masaka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masaka.internal|Masaka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masaka.protect|Masaka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Masaka.private|Masaka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masaka.personal|Masaka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masaka.secret|Masaka.secret]] 
+
+### #is_/same_as :: [Masaka](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.md) 
+
+### #is_/same_as :: [Masaka.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.public.md) 
+
+### #is_/same_as :: [Masaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.internal.md) 
+
+### #is_/same_as :: [Masaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.protect.md) 
+
+### #is_/same_as :: [Masaka.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.private.md) 
+
+### #is_/same_as :: [Masaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.personal.md) 
+
+### #is_/same_as :: [Masaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.secret.md)
 

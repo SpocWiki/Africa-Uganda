@@ -40,11 +40,18 @@ markerFolder: ./Kumi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kumi|Kumi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kumi.public|Kumi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kumi.internal|Kumi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kumi.protect|Kumi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kumi.private|Kumi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kumi.personal|Kumi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kumi.secret|Kumi.secret]] 
+
+### #is_/same_as :: [Kumi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.md) 
+
+### #is_/same_as :: [Kumi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.public.md) 
+
+### #is_/same_as :: [Kumi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.internal.md) 
+
+### #is_/same_as :: [Kumi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.protect.md) 
+
+### #is_/same_as :: [Kumi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.private.md) 
+
+### #is_/same_as :: [Kumi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.personal.md) 
+
+### #is_/same_as :: [Kumi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kumi.secret.md)
 

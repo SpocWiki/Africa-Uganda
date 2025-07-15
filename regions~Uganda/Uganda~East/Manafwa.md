@@ -40,11 +40,18 @@ markerFolder: ./Manafwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Manafwa|Manafwa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Manafwa.public|Manafwa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Manafwa.internal|Manafwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Manafwa.protect|Manafwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Manafwa.private|Manafwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Manafwa.personal|Manafwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Manafwa.secret|Manafwa.secret]] 
+
+### #is_/same_as :: [Manafwa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.md) 
+
+### #is_/same_as :: [Manafwa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.public.md) 
+
+### #is_/same_as :: [Manafwa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.internal.md) 
+
+### #is_/same_as :: [Manafwa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.protect.md) 
+
+### #is_/same_as :: [Manafwa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.private.md) 
+
+### #is_/same_as :: [Manafwa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.personal.md) 
+
+### #is_/same_as :: [Manafwa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Manafwa.secret.md)
 

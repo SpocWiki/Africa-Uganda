@@ -40,11 +40,18 @@ markerFolder: ./Rukungiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Rukungiri|Rukungiri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Rukungiri.public|Rukungiri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rukungiri.internal|Rukungiri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rukungiri.protect|Rukungiri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Rukungiri.private|Rukungiri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rukungiri.personal|Rukungiri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rukungiri.secret|Rukungiri.secret]] 
+
+### #is_/same_as :: [Rukungiri](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.md) 
+
+### #is_/same_as :: [Rukungiri.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.public.md) 
+
+### #is_/same_as :: [Rukungiri.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.internal.md) 
+
+### #is_/same_as :: [Rukungiri.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.protect.md) 
+
+### #is_/same_as :: [Rukungiri.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.private.md) 
+
+### #is_/same_as :: [Rukungiri.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.personal.md) 
+
+### #is_/same_as :: [Rukungiri.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Rukungiri.secret.md)
 
