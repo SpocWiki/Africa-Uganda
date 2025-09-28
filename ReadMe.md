@@ -119,7 +119,7 @@ markerFolder: .//
 [Area-Land::199650] 
 Continent :: [[Africa]]  
 [VehicleCode::EAU] 
-Capital :: [[Kampala]]  
+Capital :: [[regions~Uganda/Uganda~Central/Kampala]]  
 
 ![[Coat_of_arms_of_Uganda.svg|450]] 
 
