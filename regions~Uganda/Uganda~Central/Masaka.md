@@ -40,17 +40,17 @@ markerFolder: ./Masaka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Masaka](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka|Masaka]] 
 
-### #is_/same_as :: [Masaka.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.public|Masaka.public]] 
 
-### #is_/same_as :: [Masaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.internal|Masaka.internal]] 
 
-### #is_/same_as :: [Masaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.protect|Masaka.protect]] 
 
-### #is_/same_as :: [Masaka.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.private|Masaka.private]] 
 
-### #is_/same_as :: [Masaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.personal|Masaka.personal]] 
 
-### #is_/same_as :: [Masaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Masaka.secret|Masaka.secret]] 
 

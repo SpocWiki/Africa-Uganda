@@ -53,17 +53,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kampala](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City|Kampala,City]] 
 
-### #is_/same_as :: [Kampala.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City.public|Kampala,City.public]] 
 
-### #is_/same_as :: [Kampala.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City.internal|Kampala,City.internal]] 
 
-### #is_/same_as :: [Kampala.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City.protect|Kampala,City.protect]] 
 
-### #is_/same_as :: [Kampala.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City.private|Kampala,City.private]] 
 
-### #is_/same_as :: [Kampala.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City.personal|Kampala,City.personal]] 
 
-### #is_/same_as :: [Kampala.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kampala/City/Kampala,City.secret|Kampala,City.secret]] 
 

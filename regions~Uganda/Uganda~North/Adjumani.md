@@ -40,17 +40,17 @@ markerFolder: ./Adjumani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adjumani](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani|Adjumani]] 
 
-### #is_/same_as :: [Adjumani.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.public|Adjumani.public]] 
 
-### #is_/same_as :: [Adjumani.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.internal|Adjumani.internal]] 
 
-### #is_/same_as :: [Adjumani.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.protect|Adjumani.protect]] 
 
-### #is_/same_as :: [Adjumani.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.private|Adjumani.private]] 
 
-### #is_/same_as :: [Adjumani.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.personal|Adjumani.personal]] 
 
-### #is_/same_as :: [Adjumani.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Adjumani.secret|Adjumani.secret]] 
 

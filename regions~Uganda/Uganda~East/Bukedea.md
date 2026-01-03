@@ -40,17 +40,17 @@ markerFolder: ./Bukedea/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bukedea](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea|Bukedea]] 
 
-### #is_/same_as :: [Bukedea.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.public|Bukedea.public]] 
 
-### #is_/same_as :: [Bukedea.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.internal|Bukedea.internal]] 
 
-### #is_/same_as :: [Bukedea.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.protect|Bukedea.protect]] 
 
-### #is_/same_as :: [Bukedea.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.private|Bukedea.private]] 
 
-### #is_/same_as :: [Bukedea.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.personal|Bukedea.personal]] 
 
-### #is_/same_as :: [Bukedea.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Bukedea.secret|Bukedea.secret]] 
 

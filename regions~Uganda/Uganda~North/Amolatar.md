@@ -40,17 +40,17 @@ markerFolder: ./Amolatar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amolatar](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar|Amolatar]] 
 
-### #is_/same_as :: [Amolatar.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.public|Amolatar.public]] 
 
-### #is_/same_as :: [Amolatar.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.internal|Amolatar.internal]] 
 
-### #is_/same_as :: [Amolatar.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.protect|Amolatar.protect]] 
 
-### #is_/same_as :: [Amolatar.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.private|Amolatar.private]] 
 
-### #is_/same_as :: [Amolatar.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.personal|Amolatar.personal]] 
 
-### #is_/same_as :: [Amolatar.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Amolatar.secret|Amolatar.secret]] 
 

@@ -65,3 +65,20 @@ markerFile: [[Lake_Albert]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Albert%20(Africa)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert|Lake_Albert]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert.public|Lake_Albert.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert.internal|Lake_Albert.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert.protect|Lake_Albert.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert.private|Lake_Albert.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert.personal|Lake_Albert.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/Lakes~Uganda/Lake_Albert.secret|Lake_Albert.secret]] 
+

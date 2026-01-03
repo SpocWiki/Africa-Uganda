@@ -40,17 +40,17 @@ markerFolder: ./Kyegegwa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kyegegwa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa|Kyegegwa]] 
 
-### #is_/same_as :: [Kyegegwa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.public|Kyegegwa.public]] 
 
-### #is_/same_as :: [Kyegegwa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.internal|Kyegegwa.internal]] 
 
-### #is_/same_as :: [Kyegegwa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.protect|Kyegegwa.protect]] 
 
-### #is_/same_as :: [Kyegegwa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.private|Kyegegwa.private]] 
 
-### #is_/same_as :: [Kyegegwa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.personal|Kyegegwa.personal]] 
 
-### #is_/same_as :: [Kyegegwa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyegegwa.secret|Kyegegwa.secret]] 
 

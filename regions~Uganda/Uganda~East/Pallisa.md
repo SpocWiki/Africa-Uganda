@@ -40,17 +40,17 @@ markerFolder: ./Pallisa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pallisa](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa|Pallisa]] 
 
-### #is_/same_as :: [Pallisa.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.public|Pallisa.public]] 
 
-### #is_/same_as :: [Pallisa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.internal|Pallisa.internal]] 
 
-### #is_/same_as :: [Pallisa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.protect|Pallisa.protect]] 
 
-### #is_/same_as :: [Pallisa.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.private|Pallisa.private]] 
 
-### #is_/same_as :: [Pallisa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.personal|Pallisa.personal]] 
 
-### #is_/same_as :: [Pallisa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Pallisa.secret|Pallisa.secret]] 
 

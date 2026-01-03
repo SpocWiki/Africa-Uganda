@@ -40,17 +40,17 @@ markerFolder: ./Nakaseke/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nakaseke](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke|Nakaseke]] 
 
-### #is_/same_as :: [Nakaseke.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.public|Nakaseke.public]] 
 
-### #is_/same_as :: [Nakaseke.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.internal|Nakaseke.internal]] 
 
-### #is_/same_as :: [Nakaseke.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.protect|Nakaseke.protect]] 
 
-### #is_/same_as :: [Nakaseke.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.private|Nakaseke.private]] 
 
-### #is_/same_as :: [Nakaseke.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.personal|Nakaseke.personal]] 
 
-### #is_/same_as :: [Nakaseke.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakaseke.secret|Nakaseke.secret]] 
 

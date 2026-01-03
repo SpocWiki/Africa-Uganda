@@ -40,17 +40,17 @@ markerFolder: ./Nwoya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nwoya](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya|Nwoya]] 
 
-### #is_/same_as :: [Nwoya.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.public|Nwoya.public]] 
 
-### #is_/same_as :: [Nwoya.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.internal|Nwoya.internal]] 
 
-### #is_/same_as :: [Nwoya.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.protect|Nwoya.protect]] 
 
-### #is_/same_as :: [Nwoya.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.private|Nwoya.private]] 
 
-### #is_/same_as :: [Nwoya.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.personal|Nwoya.personal]] 
 
-### #is_/same_as :: [Nwoya.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Nwoya.secret|Nwoya.secret]] 
 

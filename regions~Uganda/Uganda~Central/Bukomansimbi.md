@@ -40,17 +40,17 @@ markerFolder: ./Bukomansimbi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bukomansimbi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi|Bukomansimbi]] 
 
-### #is_/same_as :: [Bukomansimbi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.public|Bukomansimbi.public]] 
 
-### #is_/same_as :: [Bukomansimbi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.internal|Bukomansimbi.internal]] 
 
-### #is_/same_as :: [Bukomansimbi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.protect|Bukomansimbi.protect]] 
 
-### #is_/same_as :: [Bukomansimbi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.private|Bukomansimbi.private]] 
 
-### #is_/same_as :: [Bukomansimbi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.personal|Bukomansimbi.personal]] 
 
-### #is_/same_as :: [Bukomansimbi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Bukomansimbi.secret|Bukomansimbi.secret]] 
 

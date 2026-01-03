@@ -40,17 +40,17 @@ markerFolder: ./Kyankwanzi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kyankwanzi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi|Kyankwanzi]] 
 
-### #is_/same_as :: [Kyankwanzi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.public|Kyankwanzi.public]] 
 
-### #is_/same_as :: [Kyankwanzi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.internal|Kyankwanzi.internal]] 
 
-### #is_/same_as :: [Kyankwanzi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.protect|Kyankwanzi.protect]] 
 
-### #is_/same_as :: [Kyankwanzi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.private|Kyankwanzi.private]] 
 
-### #is_/same_as :: [Kyankwanzi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.personal|Kyankwanzi.personal]] 
 
-### #is_/same_as :: [Kyankwanzi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Kyankwanzi.secret|Kyankwanzi.secret]] 
 

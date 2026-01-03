@@ -40,17 +40,17 @@ markerFolder: ./Butaleja/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Butaleja](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja|Butaleja]] 
 
-### #is_/same_as :: [Butaleja.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.public|Butaleja.public]] 
 
-### #is_/same_as :: [Butaleja.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.internal|Butaleja.internal]] 
 
-### #is_/same_as :: [Butaleja.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.protect|Butaleja.protect]] 
 
-### #is_/same_as :: [Butaleja.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.private|Butaleja.private]] 
 
-### #is_/same_as :: [Butaleja.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.personal|Butaleja.personal]] 
 
-### #is_/same_as :: [Butaleja.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Butaleja.secret|Butaleja.secret]] 
 

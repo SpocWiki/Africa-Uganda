@@ -83,3 +83,21 @@ Libris_URI: 75knsxsr1wwtkt0
 > Amin's rule was characterized by rampant human rights abuses including political repression and extrajudicial killings as well as nepotism, corruption, and gross economic mismanagement. International observers and human rights groups estimate that between 100,000 and 500,000 people were killed under his regime.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Idi%20Amin)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin|Idi_Amin]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin.public|Idi_Amin.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin.internal|Idi_Amin.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin.protect|Idi_Amin.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin.private|Idi_Amin.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin.personal|Idi_Amin.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda/Idi_Amin.secret|Idi_Amin.secret]] 
+

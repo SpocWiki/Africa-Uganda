@@ -35,3 +35,20 @@ Commons_category: History of Uganda
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Uganda) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda|History_of_Uganda]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda.public|History_of_Uganda.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda.internal|History_of_Uganda.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda.protect|History_of_Uganda.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda.private|History_of_Uganda.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda.personal|History_of_Uganda.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/History_of_Uganda.secret|History_of_Uganda.secret]] 
+

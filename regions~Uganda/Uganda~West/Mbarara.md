@@ -40,17 +40,17 @@ markerFolder: ./Mbarara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mbarara](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara|Mbarara]] 
 
-### #is_/same_as :: [Mbarara.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.public|Mbarara.public]] 
 
-### #is_/same_as :: [Mbarara.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.internal|Mbarara.internal]] 
 
-### #is_/same_as :: [Mbarara.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.protect|Mbarara.protect]] 
 
-### #is_/same_as :: [Mbarara.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.private|Mbarara.private]] 
 
-### #is_/same_as :: [Mbarara.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.personal|Mbarara.personal]] 
 
-### #is_/same_as :: [Mbarara.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Mbarara.secret|Mbarara.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Bundibugyo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bundibugyo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo|Bundibugyo]] 
 
-### #is_/same_as :: [Bundibugyo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.public|Bundibugyo.public]] 
 
-### #is_/same_as :: [Bundibugyo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.internal|Bundibugyo.internal]] 
 
-### #is_/same_as :: [Bundibugyo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.protect|Bundibugyo.protect]] 
 
-### #is_/same_as :: [Bundibugyo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.private|Bundibugyo.private]] 
 
-### #is_/same_as :: [Bundibugyo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.personal|Bundibugyo.personal]] 
 
-### #is_/same_as :: [Bundibugyo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bundibugyo.secret|Bundibugyo.secret]] 
 

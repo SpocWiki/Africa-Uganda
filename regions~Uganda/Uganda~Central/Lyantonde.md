@@ -40,17 +40,17 @@ markerFolder: ./Lyantonde/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lyantonde](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde|Lyantonde]] 
 
-### #is_/same_as :: [Lyantonde.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.public|Lyantonde.public]] 
 
-### #is_/same_as :: [Lyantonde.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.internal|Lyantonde.internal]] 
 
-### #is_/same_as :: [Lyantonde.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.protect|Lyantonde.protect]] 
 
-### #is_/same_as :: [Lyantonde.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.private|Lyantonde.private]] 
 
-### #is_/same_as :: [Lyantonde.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.personal|Lyantonde.personal]] 
 
-### #is_/same_as :: [Lyantonde.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Lyantonde.secret|Lyantonde.secret]] 
 

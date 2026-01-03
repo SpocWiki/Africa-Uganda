@@ -40,17 +40,17 @@ markerFolder: ./Alebtong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alebtong](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong|Alebtong]] 
 
-### #is_/same_as :: [Alebtong.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.public|Alebtong.public]] 
 
-### #is_/same_as :: [Alebtong.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.internal|Alebtong.internal]] 
 
-### #is_/same_as :: [Alebtong.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.protect|Alebtong.protect]] 
 
-### #is_/same_as :: [Alebtong.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.private|Alebtong.private]] 
 
-### #is_/same_as :: [Alebtong.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.personal|Alebtong.personal]] 
 
-### #is_/same_as :: [Alebtong.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~North/Alebtong.secret|Alebtong.secret]] 
 

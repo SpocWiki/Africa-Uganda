@@ -40,17 +40,17 @@ markerFolder: ./Mayuge/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mayuge](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge|Mayuge]] 
 
-### #is_/same_as :: [Mayuge.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.public|Mayuge.public]] 
 
-### #is_/same_as :: [Mayuge.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.internal|Mayuge.internal]] 
 
-### #is_/same_as :: [Mayuge.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.protect|Mayuge.protect]] 
 
-### #is_/same_as :: [Mayuge.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.private|Mayuge.private]] 
 
-### #is_/same_as :: [Mayuge.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.personal|Mayuge.personal]] 
 
-### #is_/same_as :: [Mayuge.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Mayuge.secret|Mayuge.secret]] 
 

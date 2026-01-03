@@ -40,17 +40,17 @@ markerFolder: ./Kaberamaido/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaberamaido](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido|Kaberamaido]] 
 
-### #is_/same_as :: [Kaberamaido.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.public|Kaberamaido.public]] 
 
-### #is_/same_as :: [Kaberamaido.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.internal|Kaberamaido.internal]] 
 
-### #is_/same_as :: [Kaberamaido.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.protect|Kaberamaido.protect]] 
 
-### #is_/same_as :: [Kaberamaido.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.private|Kaberamaido.private]] 
 
-### #is_/same_as :: [Kaberamaido.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.personal|Kaberamaido.personal]] 
 
-### #is_/same_as :: [Kaberamaido.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Kaberamaido.secret|Kaberamaido.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Isingiro/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isingiro](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro|Isingiro]] 
 
-### #is_/same_as :: [Isingiro.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.public|Isingiro.public]] 
 
-### #is_/same_as :: [Isingiro.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.internal|Isingiro.internal]] 
 
-### #is_/same_as :: [Isingiro.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.protect|Isingiro.protect]] 
 
-### #is_/same_as :: [Isingiro.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.private|Isingiro.private]] 
 
-### #is_/same_as :: [Isingiro.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.personal|Isingiro.personal]] 
 
-### #is_/same_as :: [Isingiro.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Isingiro.secret|Isingiro.secret]] 
 

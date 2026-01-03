@@ -40,17 +40,17 @@ markerFolder: ./Ntungamo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ntungamo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo|Ntungamo]] 
 
-### #is_/same_as :: [Ntungamo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.public|Ntungamo.public]] 
 
-### #is_/same_as :: [Ntungamo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.internal|Ntungamo.internal]] 
 
-### #is_/same_as :: [Ntungamo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.protect|Ntungamo.protect]] 
 
-### #is_/same_as :: [Ntungamo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.private|Ntungamo.private]] 
 
-### #is_/same_as :: [Ntungamo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.personal|Ntungamo.personal]] 
 
-### #is_/same_as :: [Ntungamo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntungamo.secret|Ntungamo.secret]] 
 

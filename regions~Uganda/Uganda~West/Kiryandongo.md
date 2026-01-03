@@ -40,17 +40,17 @@ markerFolder: ./Kiryandongo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kiryandongo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo|Kiryandongo]] 
 
-### #is_/same_as :: [Kiryandongo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.public|Kiryandongo.public]] 
 
-### #is_/same_as :: [Kiryandongo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.internal|Kiryandongo.internal]] 
 
-### #is_/same_as :: [Kiryandongo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.protect|Kiryandongo.protect]] 
 
-### #is_/same_as :: [Kiryandongo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.private|Kiryandongo.private]] 
 
-### #is_/same_as :: [Kiryandongo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.personal|Kiryandongo.personal]] 
 
-### #is_/same_as :: [Kiryandongo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kiryandongo.secret|Kiryandongo.secret]] 
 

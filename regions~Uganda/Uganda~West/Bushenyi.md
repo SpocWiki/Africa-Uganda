@@ -40,17 +40,17 @@ markerFolder: ./Bushenyi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bushenyi](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi|Bushenyi]] 
 
-### #is_/same_as :: [Bushenyi.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.public|Bushenyi.public]] 
 
-### #is_/same_as :: [Bushenyi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.internal|Bushenyi.internal]] 
 
-### #is_/same_as :: [Bushenyi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.protect|Bushenyi.protect]] 
 
-### #is_/same_as :: [Bushenyi.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.private|Bushenyi.private]] 
 
-### #is_/same_as :: [Bushenyi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.personal|Bushenyi.personal]] 
 
-### #is_/same_as :: [Bushenyi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Bushenyi.secret|Bushenyi.secret]] 
 

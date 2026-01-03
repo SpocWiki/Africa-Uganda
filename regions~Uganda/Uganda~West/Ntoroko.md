@@ -40,17 +40,17 @@ markerFolder: ./Ntoroko/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ntoroko](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko|Ntoroko]] 
 
-### #is_/same_as :: [Ntoroko.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.public|Ntoroko.public]] 
 
-### #is_/same_as :: [Ntoroko.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.internal|Ntoroko.internal]] 
 
-### #is_/same_as :: [Ntoroko.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.protect|Ntoroko.protect]] 
 
-### #is_/same_as :: [Ntoroko.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.private|Ntoroko.private]] 
 
-### #is_/same_as :: [Ntoroko.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.personal|Ntoroko.personal]] 
 
-### #is_/same_as :: [Ntoroko.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Ntoroko.secret|Ntoroko.secret]] 
 

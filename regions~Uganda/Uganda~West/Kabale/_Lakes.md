@@ -40,17 +40,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Lakes](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes|_Lakes]] 
 
-### #is_/same_as :: [_Lakes.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.public|_Lakes.public]] 
 
-### #is_/same_as :: [_Lakes.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.internal|_Lakes.internal]] 
 
-### #is_/same_as :: [_Lakes.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.protect|_Lakes.protect]] 
 
-### #is_/same_as :: [_Lakes.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.private|_Lakes.private]] 
 
-### #is_/same_as :: [_Lakes.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.personal|_Lakes.personal]] 
 
-### #is_/same_as :: [_Lakes.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kabale/_Lakes.secret|_Lakes.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Namutumba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Namutumba](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba|Namutumba]] 
 
-### #is_/same_as :: [Namutumba.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.public|Namutumba.public]] 
 
-### #is_/same_as :: [Namutumba.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.internal|Namutumba.internal]] 
 
-### #is_/same_as :: [Namutumba.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.protect|Namutumba.protect]] 
 
-### #is_/same_as :: [Namutumba.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.private|Namutumba.private]] 
 
-### #is_/same_as :: [Namutumba.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.personal|Namutumba.personal]] 
 
-### #is_/same_as :: [Namutumba.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~East/Namutumba.secret|Namutumba.secret]] 
 

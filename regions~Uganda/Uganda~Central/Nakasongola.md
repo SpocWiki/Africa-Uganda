@@ -40,17 +40,17 @@ markerFolder: ./Nakasongola/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nakasongola](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola|Nakasongola]] 
 
-### #is_/same_as :: [Nakasongola.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.public|Nakasongola.public]] 
 
-### #is_/same_as :: [Nakasongola.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.internal|Nakasongola.internal]] 
 
-### #is_/same_as :: [Nakasongola.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.protect|Nakasongola.protect]] 
 
-### #is_/same_as :: [Nakasongola.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.private|Nakasongola.private]] 
 
-### #is_/same_as :: [Nakasongola.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.personal|Nakasongola.personal]] 
 
-### #is_/same_as :: [Nakasongola.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~Central/Nakasongola.secret|Nakasongola.secret]] 
 

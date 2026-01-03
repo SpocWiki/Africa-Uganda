@@ -40,17 +40,17 @@ markerFolder: ./Kyenjojo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kyenjojo](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo|Kyenjojo]] 
 
-### #is_/same_as :: [Kyenjojo.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.public|Kyenjojo.public]] 
 
-### #is_/same_as :: [Kyenjojo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.internal|Kyenjojo.internal]] 
 
-### #is_/same_as :: [Kyenjojo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.protect|Kyenjojo.protect]] 
 
-### #is_/same_as :: [Kyenjojo.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.private|Kyenjojo.private]] 
 
-### #is_/same_as :: [Kyenjojo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.personal|Kyenjojo.personal]] 
 
-### #is_/same_as :: [Kyenjojo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Uganda/regions~Uganda/Uganda~West/Kyenjojo.secret|Kyenjojo.secret]] 
 
