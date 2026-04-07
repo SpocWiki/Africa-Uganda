@@ -5,27 +5,27 @@ aliases:
   - Lake Mobutu Sese Seko
 has_id_wikidata: Q125888
 location: [1.683333333, 30.916666666]
-named_after: "[[_Standards/WikiData/WD~Prince_Albert_of_Saxe_Coburg_and_Gotha,152245]]"
+named_after: "[[_Standards/WikiData/WD~Prince_Albert_of_Saxe_Coburg_and_Gotha,152245|WD~Prince_Albert_of_Saxe_Coburg_and_Gotha,152245]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Semliki_River,205428]]"
-  - "[[_Standards/WikiData/WD~Nkusi_River,4790369]]"
-  - "[[_Standards/WikiData/WD~River_Muzizi,4790398]]"
+  - "[[_Standards/WikiData/WD~Semliki_River,205428|WD~Semliki_River,205428]]"
+  - "[[_Standards/WikiData/WD~Nkusi_River,4790369|WD~Nkusi_River,4790369]]"
+  - "[[_Standards/WikiData/WD~River_Muzizi,4790398|WD~River_Muzizi,4790398]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548]]"
-outflows: "[[_Standards/WikiData/WD~White_Nile,4814791]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+drainage_basin: "[[_Standards/WikiData/WD~Nile_basin,2887548|WD~Nile_basin,2887548]]"
+outflows: "[[_Standards/WikiData/WD~White_Nile,4814791|WD~White_Nile,4814791]]"
 coordinate_location: Point(30.916666666 1.683333333)
-basin_country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+basin_country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
 country:
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-  - "[[_Standards/WikiData/WD~Uganda,1036]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+  - "[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]"
+instance_of: "[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]"
 width: 30
 length: 160
 vertical_depth: 58

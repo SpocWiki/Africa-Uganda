@@ -1,9 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q1512041
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Uganda,1036]]"
-country: "[[_Standards/WikiData/WD~Uganda,1036]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]"
+country: "[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]"
 Dewey_Decimal_Classification: "967.61"
 Commons_category: History of Uganda
 ---
