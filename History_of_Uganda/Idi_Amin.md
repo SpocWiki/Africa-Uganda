@@ -82,7 +82,7 @@ Libris_URI: 75knsxsr1wwtkt0
 >
 > Amin's rule was characterized by rampant human rights abuses including political repression and extrajudicial killings as well as nepotism, corruption, and gross economic mismanagement. International observers and human rights groups estimate that between 100,000 and 500,000 people were killed under his regime.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Idi%20Amin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Idi%20Amin) 
 
 
 ## Confidential Links & Embeds: 

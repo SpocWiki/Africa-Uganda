@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Masaka/
 markerFolder: ./Masaka/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

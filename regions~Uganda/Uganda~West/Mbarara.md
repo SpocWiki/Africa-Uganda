@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mbarara/
 markerFolder: ./Mbarara/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

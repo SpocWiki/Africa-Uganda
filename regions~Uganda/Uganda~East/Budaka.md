@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Budaka/
 markerFolder: ./Budaka/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Amuria/
 markerFolder: ./Amuria/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

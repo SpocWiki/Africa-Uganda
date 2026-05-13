@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kotido/
 markerFolder: ./Kotido/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

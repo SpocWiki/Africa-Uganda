@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Buliisa/
 markerFolder: ./Buliisa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
