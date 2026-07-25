@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 乌干达共和国
 dv_UNTERM_French_Formal: la République de l'Ouganda
 dv_UNTERM_Russian: Уганда
 dv_UNTERM_Russian_Formal: Республика Уганда
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -55,7 +55,7 @@ dv_ISO2: UG
 dv_ISO3: UGA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
+  - '[[../../../../../WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda|Uganda]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Uganda.public|Uganda.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal|Uganda.internal]]'
@@ -355,17 +355,17 @@ dv_has_:
 dv_has_name_de: Uganda
 dv_Area-Total: 241139
 dv_Area-Land: 199650
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: EAU
-dv_Capital: '[[Uganda/regions~Uganda/Uganda~Central/Kampala|Kampala]]'
+dv_Capital: '[[regions~Uganda/Uganda~Central/Kampala|Kampala]]'
 dv_Alcohol-l: 11.9
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 32.5811
 dv_has_place_latitude: 0.313611
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
+- '[[../../../../../WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Uganda|Uganda]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Uganda.public|Uganda.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal|Uganda.internal]]'
@@ -1014,7 +1014,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Uganda/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1034,7 +1034,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Uganda_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1062,7 +1062,7 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Uganda.svg|450]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Uganda.mp3|Anthem-Uganda.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Uganda.mp3|Anthem-Uganda.mp3]]
 
 ![[Flag_of_Uganda.svg|350]]
 
